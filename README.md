@@ -1,5 +1,4 @@
 - Clone the repo
-
 - npm install
 - Run postgres either locally or on the cloud (neon.tech)
 
